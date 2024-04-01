@@ -1,0 +1,27 @@
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #000000 0%, #272626 100% );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.see{
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(255, 140, 0);
+}
+.laptop{
+    margin-top: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 8px lightslategrey;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
